@@ -1,4 +1,5 @@
 # Envoi de données CSV vers un topic Confluent Cloud avec Python
+<img width="1531" height="835" alt="image" src="https://github.com/user-attachments/assets/f46d8cca-9fd3-4777-a47e-c4f7c36a4004" />
 
 ## Présentation
 
